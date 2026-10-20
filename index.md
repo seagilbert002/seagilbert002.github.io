@@ -41,4 +41,17 @@ I am a Computer Science student with a focus on full-stack web development, embe
 ---
 
 ## Code Reviews & Artifact Repositories
-* **GitHub Repository:** [Little Library (Next.js Conversion)](https://github.com/seagilbert002/LittleLibrary)
+
+### Code Review:
+
+[Code Review](https://youtu.be/ushpgKFn3BE)
+
+### Original Artifact
+* **GitHub Repository:** [Little Library Orignal](https://github.com/seagilbert002/LittleLibrary)
+
+### Enhanced Artifact
+
+* **GitHub Repository:** [Little Library Next.JS](https://github.com/seagilbert002/LittleLibrary-Next)
+* **GitHub Repository:** [Sensor Daemon](https://github.com/seagilbert002/temp_humidity_sensor)
+
+k
