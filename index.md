@@ -74,7 +74,7 @@ This program and my practical systems work have solidified my core values: digit
 
 ### Code Review:
 
-[Code Review](https://youtu.be/ushpgKFn3BE)
+[Code Review](https://youtu.be/cygOFs71D1Y)
 
 ### Original Artifact
 * **GitHub Repository:** [Little Library Orignal](https://github.com/seagilbert002/LittleLibrary)
