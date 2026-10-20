@@ -77,7 +77,7 @@ This program and my practical systems work have solidified my core values: digit
 [Code Review](https://youtu.be/6WlSsrhjr5w)
 
 ### Original Artifact
-* **GitHub Repository:** [Little Library Orignal](https://github.com/seagilbert002/LittleLibrary)
+* **GitHub Repository:** [Little Library Orignal](https://github.com/seagilbert002/LittleLibrary/tree/add_templ)
 
 ### Enhanced Artifact
 
